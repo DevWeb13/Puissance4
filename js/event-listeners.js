@@ -1,5 +1,7 @@
 const onKeyUp = ({ keyCode }) => {
-    if (isPlaying = false && keyCode === 32) {
+    if (isPlaying === false && keyCode === 32) {
+        console.table(defaultGrid);
+        console.table(grid);
         grid = [...defaultGrid];
         drawBoard();
         //displayGrid();

@@ -40,7 +40,7 @@ const displayGrid = () => {
 };
 
 const drawWinner = (color) => {
-    document.querySelector("h2").innerText = '${currentColor} a gagné!! Tape la barre espace pour recommencer.';
+    document.querySelector("h2").innerText = currentColor + ' a gagné!! Tape la barre espace pour recommencer.';
     //ctx.fillRect(0, 0, canvasEl.width, canvasEl.height);
     //ctx.fillStyle = color;
 };
