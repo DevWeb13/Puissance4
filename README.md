@@ -1,9 +1,11 @@
-# Puissance 4
+# Coder le jeu du Puissance 4 en HTML, CSS, JavaScript et Canvas API
 
 @author: [DevWeb13](https://twitter.com/DeveloppementW1)
 
-Création du jeu "Puissance 4" en HTML, CSS, et JAVASCRIPT avec le tuto YOUTUBE de ["Jénaïc CAMBRE"](https://twitter.com/jenaiccambre). 
+Réalisé grace au tutoriel YouTube: ["Coder le jeu du Puissance 4 en HTML, CSS, JavaScript et Canvas API"](https://www.youtube.com/watch?v=vgimS5U1gxQ) de ["Jénaïc CAMBRE"](https://twitter.com/jenaiccambre). 
 
 Merci a lui. ;-)
+
+Projet a terminé... :-(
 
 # [SITE FINAL](https://devweb13.github.io/Puissance4/)
