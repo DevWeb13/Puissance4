@@ -4,7 +4,7 @@
 
 Réalisé grace au tutoriel YouTube: ["Coder le jeu du Puissance 4 en HTML, CSS, JavaScript et Canvas API"](https://www.youtube.com/watch?v=vgimS5U1gxQ) de ["Jénaïc CAMBRE"](https://twitter.com/jenaiccambre). 
 
-Merci a lui. ;-)
+Merci à lui. ;-)
 
 Projet a terminé... :-(
 
